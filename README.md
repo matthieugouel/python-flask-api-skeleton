@@ -1,5 +1,9 @@
 # Python3 Flask Rest API skeleton
 
+[![Build Status](https://travis-ci.org/MatthieuGouel/python-flask-api-skeleton.svg?branch=master)](https://travis-ci.org/MatthieuGouel/python-flask-api-skeleton)
+
+This project is a skeleton of a Flask-restplus API. It tends to be modular in order to add *plugins* for larger projects (databases, sessions, async requests...)
+
 ## Installation
 
 Note : The installation into a virtualenv is heavily recommended.
