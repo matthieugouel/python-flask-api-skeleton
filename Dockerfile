@@ -1,4 +1,5 @@
 FROM matthieugouel/python-gunicorn-nginx:latest
+MAINTAINER Matthieu Gouel <matthieu.gouel@gmail.com>
 
 # Copy the package requirements
 COPY requirements.txt /tmp/
