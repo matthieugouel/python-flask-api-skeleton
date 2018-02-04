@@ -1,8 +1,8 @@
+tox
 pylama
 pytest
 pytest-cov
 coverage
 coveralls
 werkzeug
-tox
 -rrequirements.txt
