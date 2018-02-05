@@ -9,4 +9,4 @@ script:
     - tox -e test
 
 after_success:
-    - codecov
+    - coveralls
