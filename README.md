@@ -1,6 +1,7 @@
 # Python3 Flask Rest API skeleton
 
 [![Build Status](https://travis-ci.org/MatthieuGouel/python-flask-api-skeleton.svg?branch=master)](https://travis-ci.org/MatthieuGouel/python-flask-api-skeleton)
+[![codecov](https://codecov.io/gh/MatthieuGouel/python-flask-api-skeleton/branch/master/graph/badge.svg)](https://codecov.io/gh/MatthieuGouel/python-flask-api-skeleton)
 [![license](https://img.shields.io/github/license/MatthieuGouel/python-flask-api-skeleton.svg)](https://github.com/MatthieuGouel/python-flask-api-skeleton/blob/master/LICENSE)
 
 This project is a skeleton of a Flask-restplus API. It tends to be modular in order to add *plugins* for larger projects (databases, sessions, async requests...)
